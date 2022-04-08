@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b9b74224.css",
+    "main.js": "/static/js/main.64988f04.js",
+    "static/js/787.c959ba5e.chunk.js": "/static/js/787.c959ba5e.chunk.js",
+    "static/media/phone.png": "/static/media/phone.01a6b88ad80761c4a3d1.png",
+    "static/media/nfl.png": "/static/media/nfl.17087856961f7eae3551.png",
+    "static/media/dist.png": "/static/media/dist.720b074a53f39a5675bf.png",
+    "static/media/dex.png": "/static/media/dex.897911c1984fbd095ed1.png",
+    "static/media/logo.png": "/static/media/logo.bc1ad33c4ae81fda4a40.png",
+    "static/media/bscan.png": "/static/media/bscan.fb8bc1d4870f0f373a29.png",
+    "static/media/coin_gecko.png": "/static/media/coin_gecko.fe6762b365bbc647fea7.png",
+    "static/media/roadmap.png": "/static/media/roadmap.3ecd90eb39f2f492c5cc.png",
+    "static/media/coin_market_cap.png": "/static/media/coin_market_cap.cccce1bedfa1b67fe88b.png",
+    "index.html": "/index.html",
+    "main.b9b74224.css.map": "/static/css/main.b9b74224.css.map",
+    "main.64988f04.js.map": "/static/js/main.64988f04.js.map",
+    "787.c959ba5e.chunk.js.map": "/static/js/787.c959ba5e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b9b74224.css",
+    "static/js/main.64988f04.js"
+  ]
+}
