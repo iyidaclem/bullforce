@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/bullforce/static/css/main.611c6809.css",
-    "main.js": "/bullforce/static/js/main.a353d88e.js",
+    "main.js": "/bullforce/static/js/main.a37889fd.js",
     "static/js/787.c959ba5e.chunk.js": "/bullforce/static/js/787.c959ba5e.chunk.js",
     "static/media/football_field.png": "/bullforce/static/media/football_field.df8518695884f3ac9d86.png",
     "static/media/fire.png": "/bullforce/static/media/fire.54118ee85acb5643f246.png",
@@ -21,11 +21,11 @@
     "static/media/coin_market_cap.png": "/bullforce/static/media/coin_market_cap.cccce1bedfa1b67fe88b.png",
     "index.html": "/bullforce/index.html",
     "main.611c6809.css.map": "/bullforce/static/css/main.611c6809.css.map",
-    "main.a353d88e.js.map": "/bullforce/static/js/main.a353d88e.js.map",
+    "main.a37889fd.js.map": "/bullforce/static/js/main.a37889fd.js.map",
     "787.c959ba5e.chunk.js.map": "/bullforce/static/js/787.c959ba5e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.611c6809.css",
-    "static/js/main.a353d88e.js"
+    "static/js/main.a37889fd.js"
   ]
 }
