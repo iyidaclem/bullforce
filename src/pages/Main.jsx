@@ -22,11 +22,11 @@ class Main extends React.Component {
         return (
             <div>
                 <Header App={this} />
-                {this.state.currentPage=="0"&&<Overview />}
-                {this.state.currentPage=="1"&&<Roadmap />}
-                {this.state.currentPage=="2"&&<Tokenomics />}
-                {this.state.currentPage=="3"&&<Howtobuy />}
-                {this.state.currentPage=="4"&&<Staking />}
+                {this.state.currentPage=="0"&&<Overview  App={this} />}
+                {this.state.currentPage=="1"&&<Roadmap  App={this} />}
+                {this.state.currentPage=="2"&&<Tokenomics  App={this} />}
+                {this.state.currentPage=="3"&&<Howtobuy  App={this} />}
+                {this.state.currentPage=="4"&&<Staking  App={this} />}
                 <Footer />
             </div>
         )
