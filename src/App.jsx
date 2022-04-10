@@ -12,7 +12,7 @@ import Staking from './comps/Staking';
 
 function App() {
   return (
-    <Router>
+    <Router basename={window.location.pathname || ''}>
       <div className="App">
 
        <Routes>
