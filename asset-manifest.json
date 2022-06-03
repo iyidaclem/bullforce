@@ -1,8 +1,9 @@
 {
   "files": {
-    "main.css": "./static/css/main.0f3dbf06.css",
-    "main.js": "./static/js/main.db6e9c3a.js",
+    "main.css": "./static/css/main.6ab2a480.css",
+    "main.js": "./static/js/main.35027632.js",
     "static/js/787.c959ba5e.chunk.js": "./static/js/787.c959ba5e.chunk.js",
+    "static/media/bullvideo.mp4": "./static/media/bullvideo.4af1ef24d45273bd1faf.mp4",
     "static/media/football_field.png": "./static/media/football_field.df8518695884f3ac9d86.png",
     "static/media/fire.png": "./static/media/fire.54118ee85acb5643f246.png",
     "static/media/phone.png": "./static/media/phone.01a6b88ad80761c4a3d1.png",
@@ -12,20 +13,16 @@
     "static/media/premier.png": "./static/media/premier.69e262a5a2f7cc760878.png",
     "static/media/dist.png": "./static/media/dist.720b074a53f39a5675bf.png",
     "static/media/chelsea.png": "./static/media/chelsea.18eca40211ad0fc7c597.png",
-    "static/media/dex.png": "./static/media/dex.897911c1984fbd095ed1.png",
     "static/media/realmadrid.png": "./static/media/realmadrid.cf6e7ed161daeb6f4ddd.png",
     "static/media/logo.png": "./static/media/logo.bc1ad33c4ae81fda4a40.png",
-    "static/media/bscan.png": "./static/media/bscan.fb8bc1d4870f0f373a29.png",
-    "static/media/coin_gecko.png": "./static/media/coin_gecko.fe6762b365bbc647fea7.png",
     "static/media/roadmap.png": "./static/media/roadmap.3ecd90eb39f2f492c5cc.png",
-    "static/media/coin_market_cap.png": "./static/media/coin_market_cap.cccce1bedfa1b67fe88b.png",
     "index.html": "./index.html",
-    "main.0f3dbf06.css.map": "./static/css/main.0f3dbf06.css.map",
-    "main.db6e9c3a.js.map": "./static/js/main.db6e9c3a.js.map",
+    "main.6ab2a480.css.map": "./static/css/main.6ab2a480.css.map",
+    "main.35027632.js.map": "./static/js/main.35027632.js.map",
     "787.c959ba5e.chunk.js.map": "./static/js/787.c959ba5e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0f3dbf06.css",
-    "static/js/main.db6e9c3a.js"
+    "static/css/main.6ab2a480.css",
+    "static/js/main.35027632.js"
   ]
 }
